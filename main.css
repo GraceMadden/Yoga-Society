@@ -26,3 +26,8 @@
 
 }
 body {padding-top: 70px;}
+
+.img-circle{
+	width: 20px;
+	height: 20px;
+}

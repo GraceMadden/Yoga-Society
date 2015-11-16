@@ -26,13 +26,12 @@
 
 }
 body {padding-top: 70px;}
-<<<<<<< HEAD
 
-.img-circle{
+
+.img{
 	width: 200px;
-	height: 200px;
-=======
+	height: 200px;}
+
 h1 {font-family: 'Italianno';
-        font-size: 48px;
->>>>>>> master
-}
+        font-size: 48px;}
+

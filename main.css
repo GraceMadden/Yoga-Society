@@ -8,6 +8,7 @@
 .btn-facebook {
 	background-color: #4868ac;
 	border-color: #314776;
+	text-align: center;
 }
 .btn-pinterest {
 	background-color: #b62f26;
@@ -32,6 +33,7 @@ body {padding-top: 70px;}
 	width: 275px;
 	height: 200px;}
 
+<<<<<<< HEAD
 h1 {font-family: 'Italianno';
         font-size: 48px;
     }
@@ -42,3 +44,11 @@ h1 {font-family: 'Italianno';
 	margin-left:auto;
 	margin-right:auto;
 }
+=======
+
+h1 {
+        font-family: 'Italianno' ;
+        font-size: 48px;}
+
+
+>>>>>>> origin/gh-pages

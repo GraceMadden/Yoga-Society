@@ -33,10 +33,15 @@ body {padding-top: 70px;}
 	width: 275px;
 	height: 200px;}
 
-<<<<<<< HEAD
-h1 {font-family: 'Italianno';
-        font-size: 48px;
+
+.jumbotron h1 {font-family: 'Tangerine';
+        font-size: 120px;
     }
+.jumbotron label  {font-family: 'Tangerine';
+font-size: 30px;
+color: #342D7E;
+}
+
 .yog{
 	width: 600px;
 	height: 350px;
@@ -44,11 +49,4 @@ h1 {font-family: 'Italianno';
 	margin-left:auto;
 	margin-right:auto;
 }
-=======
 
-h1 {
-        font-family: 'Tangerine' ;
-        font-size: 60px;}
-
-
->>>>>>> origin/gh-pages
